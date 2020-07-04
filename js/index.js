@@ -9,7 +9,7 @@
       timer = null;
   console.log('wat', card);
   openB.addEventListener('click', function () {
-    window.open("https://ssingh0110.github.io/turnjs4/samples/magazine/index.html#page/2", "_blank");
+    window.open("/turnjs4/samples/magazine/index.html#page/2", "_blank");
   });
 
   closeB.addEventListener('click', function () {
